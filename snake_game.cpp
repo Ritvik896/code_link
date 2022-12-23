@@ -61,5 +61,6 @@ int main()
         Logic();
         // sleep(10) slows the game by 10ms
     }
+    cout<<"Done";
     return 0;
 }
